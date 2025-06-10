@@ -1,0 +1,14 @@
+body {
+    background-image: url('../assets/img/ynanp.back.jpg');
+    
+}
+body:before { 
+    background-color: rgba(0, 100, 200, 0.3);
+}
+
+.masthead .masthead-content {
+    background-color: rgba(0, 0, 0, 0.5);
+    max-width: 80%;
+    padding-top: 10px;
+}
+
