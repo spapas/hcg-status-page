@@ -8,7 +8,21 @@ body:before {
 
 .masthead .masthead-content {
     background-color: rgba(0, 0, 0, 0.5);
-    max-width: 80%;
+    max-width: 90%;
     padding-top: 10px;
 }
 
+.masthead:before {
+    background-color: rgba(10, 10, 26, 0.8);
+}
+
+.masthead .masthead-content h1, .masthead .masthead-content .h1 {
+    color: #fff;
+    font-weight: 700;
+    font-size: 2rem;
+}
+
+.masthead .masthead-content p {
+    color: #fff;
+    font-size: 1.1rem;
+}
